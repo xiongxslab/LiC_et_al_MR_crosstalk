@@ -13,7 +13,7 @@ Code for Bayesian-based colocalization analysis between m6A and epigenome implem
 
 Multi_trait_coloc
 ------
-Code for multiple trait colocalization analysis among the two molecular layers and tissue-related GWAS datasets implemented by R package moloc (version 0.1.0). moloc is avaliable at https://github.com/clagiamba/moloc.
+Code for multiple trait colocalization analysis among the two molecular layers (m6A and epigenome) and tissue-related GWAS datasets implemented by R package moloc (version 0.1.0). moloc is avaliable at https://github.com/clagiamba/moloc.
 
 Downstream_analysis
 ------
